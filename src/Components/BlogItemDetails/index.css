@@ -1,0 +1,21 @@
+.blog-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  height: 150vh;
+}
+
+.blog-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: black;
+  color: aliceblue;
+  padding: 20px;
+}
+.blog-item-image {
+  height: 60vh;
+  width: 60vw;
+  border-radius: 20px;
+}

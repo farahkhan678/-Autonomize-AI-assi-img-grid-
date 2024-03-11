@@ -1,0 +1,14 @@
+.blogs-list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: black;
+  height: 150vh;
+}
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 70%;
+  margin: auto;
+}
